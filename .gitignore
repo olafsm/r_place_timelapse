@@ -5,10 +5,12 @@ __pycache__/
 
 # C extensions
 *.so
-./cropped
-./img
-./moonlord
-./resized
+cropped/
+img/
+moonlord/
+resized/
+test/
+test2/
 # Distribution / packaging
 .Python
 build/
